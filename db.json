@@ -1,4 +1,4 @@
-[{"nom_client":"MEI Pharma, Inc.","delais_moyen_payement":"Net 60J"},
+{"entreprise":[{"nom_client":"MEI Pharma, Inc.","delais_moyen_payement":"Net 60J"},
 {"nom_client":"The Obesity ETF","delais_moyen_payement":"Net30J"},
 {"nom_client":"KeyCorp","delais_moyen_payement":"Net 45J"},
 {"nom_client":"NantHealth, Inc.","delais_moyen_payement":"Net30J"},
@@ -77,4 +77,4 @@
 {"nom_client":"PIMCO New York Municipal Income Fund III","delais_moyen_payement":"Net30J"},
 {"nom_client":"Tucows Inc.","delais_moyen_payement":"Net 60J"},
 {"nom_client":"Pzena Investment Management Inc","delais_moyen_payement":"Net 45J"},
-{"nom_client":"WideOpenWest, Inc.","delais_moyen_payement":"Net30J"}]
+{"nom_client":"WideOpenWest, Inc.","delais_moyen_payement":"Net30J"}]}
