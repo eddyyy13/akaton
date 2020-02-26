@@ -1,115 +1,25 @@
-{
-	"entreprise": [{
-			"nom_client": "BioScrip, Inc.",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Hingham Institution for Savings",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "Donegal Group, Inc.",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Shake Shack, Inc.",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "Advent/Claymore Enhanced Growth & Income Fund",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Wheeler Real Estate Investment Trust, Inc.",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "Novanta Inc.",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Icahn Enterprises L.P.",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "United Rentals, Inc.",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "MISONIX, Inc.",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "Onvia, Inc.",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Eiger BioPharmaceuticals, Inc.",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "American National Bankshares, Inc.",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "Analogic Corporation",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Celsion Corporation",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Gray Television, Inc.",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Legacy Reserves LP",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Royal Bank Scotland plc (The)",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "VelocityShares Daily Inverse VIX Short-Term ETN",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Ligand Pharmaceuticals Incorporated",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Horizon Technology Finance Corporation",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Onconova Therapeutics, Inc.",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "Sabre Corporation",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Office Depot, Inc.",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "Cliffs Natural Resources Inc.",
-			"delais_moyen_payement": "Net 60J"
-		},
-		{
-			"nom_client": "FB Financial Corporation",
-			"delais_moyen_payement": "Net30J"
-		},
-		{
-			"nom_client": "TerraVia Holdings, Inc.",
-			"delais_moyen_payement": "Net 45J"
-		},
-		{
-			"nom_client": "Boston Private Financial Holdings, Inc.",
-			"delais_moyen_payement": "Net30J"
-		}
-	]
-}
+{"entreprise":[{"delais_moyen_payement":13,"id":"e6bbd346-1339-41ae-aa8e-6bf7c3109986","email":"sbrundale0@home.pl"},
+{"delais_moyen_payement":20,"id":"e2e61788-d8e9-4920-86d8-707f26fc407d","email":"bmccracken1@lulu.com"},
+{"delais_moyen_payement":20,"id":"f72b41c0-21d5-427f-9e53-cf92c8fc78ed","email":"pskillitt2@accuweather.com"},
+{"delais_moyen_payement":18,"id":"12d9c1be-c0d8-4ba7-a617-7c1140fcd462","email":"bfardo3@google.ru"},
+{"delais_moyen_payement":17,"id":"ce8d38a0-81fd-49fd-a03a-f7c7ce592c41","email":"rcissell4@cocolog-nifty.com"},
+{"delais_moyen_payement":26,"id":"99b446e1-fa4b-4ce9-a6c4-b1b06c42c93f","email":"pgibby5@ebay.co.uk"},
+{"delais_moyen_payement":25,"id":"3346b78a-c128-4e3b-9d99-442fb1f3c7d6","email":"rmournian6@army.mil"},
+{"delais_moyen_payement":17,"id":"14a8d81d-75c2-4aa6-9863-6601fa0812d4","email":"nplowman7@gmpg.org"},
+{"delais_moyen_payement":19,"id":"e5d3800b-52fa-4993-81cd-4c4d8dd780b1","email":"rordish8@nytimes.com"},
+{"delais_moyen_payement":16,"id":"8c745fab-de87-475e-b274-3bd96173baeb","email":"gcant9@unblog.fr"},
+{"delais_moyen_payement":21,"id":"f2f37761-9484-4f25-9fe5-d38bab22e504","email":"epalsera@bandcamp.com"},
+{"delais_moyen_payement":14,"id":"dfe63fb1-f5b3-4902-b5c0-d3b50cd62db3","email":"sgoodbyb@google.de"},
+{"delais_moyen_payement":23,"id":"a93e8251-343a-44fc-8831-b5ca8329796d","email":"ppraillc@japanpost.jp"},
+{"delais_moyen_payement":26,"id":"ed9ef1ba-ea0d-4c90-85a2-752fc1950c43","email":"gcamelid@cocolog-nifty.com"},
+{"delais_moyen_payement":29,"id":"f67ddefb-ef1a-401e-945e-2803afd78d2f","email":"sarnaudete@chronoengine.com"},
+{"delais_moyen_payement":29,"id":"df0c1675-c74c-4fb4-8d38-affc7e4cdaea","email":"bbeckhurstf@creativecommons.org"},
+{"delais_moyen_payement":19,"id":"27d54f62-d4a5-416a-89f6-d0df0f793822","email":"kcopnallg@sciencedaily.com"},
+{"delais_moyen_payement":11,"id":"21ed13dd-868c-42ae-a8e8-7a75add38297","email":"npevieh@hao123.com"},
+{"delais_moyen_payement":11,"id":"de159232-8c0e-4d14-a29d-1e5bb2debc79","email":"rbillsoni@huffingtonpost.com"},
+{"delais_moyen_payement":25,"id":"75a48fdf-85f7-4061-92b5-4c329b1ec2ec","email":"ltreagusj@domainmarket.com"},
+{"delais_moyen_payement":11,"id":"0a8f366e-18c7-46c3-8d50-a903af39b02a","email":"jcostek@aol.com"},
+{"delais_moyen_payement":17,"id":"736d81b7-f97e-486c-81fb-c11711908dc0","email":"tvarvaral@wikispaces.com"},
+{"delais_moyen_payement":20,"id":"e17e8d59-0104-43b9-a927-88d0e1e28837","email":"udewarm@smugmug.com"},
+{"delais_moyen_payement":28,"id":"12e22c23-7859-417e-8227-e7fe12f499e1","email":"lcurtoisn@dailymail.co.uk"},
+{"delais_moyen_payement":24,"id":"f07ec1c9-744d-414a-a4a6-f5552d233719","email":"adogeto@mit.edu"}]}
